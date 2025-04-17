@@ -41,3 +41,5 @@ target/**
 .DS_Store
 
 log/
+
+jmh-result.json
