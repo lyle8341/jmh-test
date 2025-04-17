@@ -4,7 +4,9 @@
   
   > java -jar target/benchmarks.jar
   
-  > java -jar target/benchmarks.jar -rf json  //测试结果输出json格式
+  > java -jar target/benchmarks.jar -rf json
+  >> 测试结果输出json格式，同代码.resultFormat(ResultFormatType.JSON)作用
+  >>> -rf => result format
 
 + **2.运行方式二**
   - [main方法方式](./src/main/java/com/lyle/MyBenchmark.java)
